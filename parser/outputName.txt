@@ -1,0 +1,339 @@
+Name
+Akuna Capital
+Amazon Robotics
+Apple
+Bridgewater Associates
+Bevootech
+Smmile Digital
+Citi
+D. E. Shaw & Co.
+Five Rings
+Goldman Sachs
+Morgan Stanley
+Optiver
+Putnam Investments
+SIG
+Voloridge Investment Management
+KeyBank
+Cisco (Meraki)
+Amazon
+Bessemer Fellowship Program
+BlackRock
+Two Sigma
+IMC
+Palantir
+Mastercard
+Citadel
+Neocis
+Hewlett Packard Enterprise
+Blackstone
+Northrop Grumman
+Oracle
+Lockheed Martin
+Freddie Mac
+Jane Street
+Seven Eight Capital
+Databento
+Virtu Financial
+Prudential
+PDT Partners
+Verkada
+L3Harris Technologies
+PNC
+Arrowstreet Capital
+Valkyrie
+Sensata
+JP Morgan
+Roblox
+Microsoft
+Intuit
+Uber
+Hudson River Trading
+Johnson & Johnson
+DRW
+Salesforce
+Instabase
+Cisco
+L3Harris Technologies
+Vanguard
+The Vendry
+YugaByte
+KLA
+Qualtrics
+Audible
+Aquatic Capital Management
+Ericsson
+Accenture
+Quantcast
+Belvedere Trading
+Jump Trading
+Databricks
+American Express
+IBM
+Cohen & Co
+Figma
+Flatiron Health
+Redfin
+F5
+DriveTime
+GoodYear
+Thomson Reuters
+Convoy
+Daikin
+Nasdaq
+Viasat
+Qvest
+Trihydro Corporation
+Datadog
+Paypal
+NetApp
+Benchling
+Epic Games
+Mathworks
+Ridgeline
+Keysight Technologies
+Insitro
+BNY Mellon
+Applied Intuition
+Gallup
+Intel
+Dell
+Neuralink
+Rivian
+Zillow
+Taboola
+Arrowstreet Capital
+Deloitte
+Stripe
+Discover Financial Services
+IXL
+Affirm
+Visa
+Chewy
+Riot Games
+AIG
+CGI
+TikTok
+Warner Bros Discovery
+ByteDance
+TD Ameritrade
+Paramount
+Nuro
+Relativity Space
+Dropbox
+MongoDB
+Urban Outfitters
+The Washington Post
+Pitchbook
+Lucid Software
+Atlassian
+SoundHound
+Slack
+SpaceX
+Samsara
+Brex
+CrowdStrike
+Garmin
+Zoom
+Pinterest
+T.Row Price
+Tableau
+The Home Depot
+NASA Jet Propulsion Laboratory
+Lowe's
+Collins Aerospace
+AeroVironment
+Allegion
+ABL
+Workday
+Okta
+Texas Instruments
+Splunk
+Cloudflare
+2K
+Lacework
+Axon
+Emerson Automation Solutions
+Shure Inc.
+Avanade
+Motorola Solutions
+Ansys
+Silicon Labs
+Zebra Technologies
+SingleStore
+Domeyard LP
+Yext
+Compass Minerals
+Anduril
+Wolverine
+Pure Storage
+Symbiotic
+WillowTree
+TradeWeb
+Cruise
+Gap
+DeepGram
+Matroid
+Proofpoint
+Stryker
+Dimensional Careers
+Labcorp
+Sierra Nevada Corporation
+Sysco
+DoorDash
+United
+Merck
+Jamf
+Dish
+Booz Allen
+C3.ai
+Roku
+Google
+Bank of America
+Honeywell
+Parsons Corporation
+Fifth Third Bank
+KnowBe4
+Flexport
+Schonfeld
+Spreetail
+Tanium
+UiPath
+Qualcomm
+Guidewire
+84.51°
+Akamai
+Appian
+DraftKings
+Ginkgo Bioworks
+Huntington Ingalls Industries
+Nutanix
+Oshkosh Corporation
+Paylocity
+Trimble
+Unity
+Zoox
+Autodesk
+IDEMIA
+TripActions
+CyberArk
+Nextdoor
+Reliable Robotics
+Motive
+Federal Reserve Board
+Ancestry
+Crusoe
+Farm Credit Services of America
+Raytheon
+Lumen
+Textron
+Whatnot
+Pattern
+Advanced Micro Devices(AMD)
+Raven Industries
+Vail Systems
+Jacobs
+Netflix
+Alteryx
+TuSimple
+Blizzard
+Awardco
+ZipRecruiter
+Squarespace
+CarMax
+McKesson
+Argo AI
+Walmart
+Skydio
+Cadence
+Activision
+Arista
+Expedia Group
+Clever
+State Street
+Restaurant Brands International
+Electronic Arts (EA)
+Northwestern Mutual
+Excelitas
+Teradata
+Climate
+Marvell
+Anthology Inc
+klue
+LINK
+Hashicorp
+Achieve
+Lennox International
+Tackle.io
+Delta
+Mailchimp
+Vectra
+LaunchDarkly
+Invoca
+ebay
+Oscar Health
+Wisk
+Nuance
+Liberty Mutual
+Vizient
+DISCO
+Snackpass
+Tesla
+Spectrum
+Coca-Cola
+OpenText
+Omnicell
+Patreon
+Grafana Labs
+Credit Karma
+Waymo
+Robinhood
+Bain & Company
+Addepar
+Ambi Robotics
+Tandem Diabetes Care
+Aurora
+Cargill
+Norfolk Southern Corp.
+Entergy
+Prometric
+Wayfair
+Moderna
+Nintendo
+Veritas
+BlueHalo
+Elevance Health
+Certik
+Comcast
+Nordson
+HP
+Gemini
+General Dynamics Mission Systems
+Verizon
+Bose
+Alcon
+Aptiv
+23andMe
+NBA
+Brain Technologies
+Chess.com
+Coda
+Xwing
+Sigma Computing
+Bandwidth
+UKG
+MediaTek
+Citizens
+Philips
+Monad Labs
+Red Hat
+Black & Veatch
+Domo
+Lexmark
+Levi, Ray & Shoup
+BreezeML
+Tu Simple
+Schoolhouse
+Yahoo
+Dayton Freight Lines, Inc
+Gusto
